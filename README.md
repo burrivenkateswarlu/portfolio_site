@@ -5,3 +5,5 @@ A portfolio website is an essential tool to getting more business and building y
 social sites.
 # Download
 download my project files here LINK ------> [https://github.com/burrivenkateswarlu/portfolio_site]
+# To Run project
+Download repository and open the index.html file
